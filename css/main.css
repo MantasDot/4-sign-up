@@ -1,4 +1,12 @@
-body{
+body,
+body * {
+    box-sizing: border-box;
+}
+
+
+
+body {
+
 }
 
 main {
