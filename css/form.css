@@ -10,9 +10,7 @@
     gap: 10px;
     width: 100%;
 }
-/* .form-row + .from-row {
-    margin-top: 40px;
-} */
+
 .form-row.flex-row {
     flex-direction: row;
     gap: 25px;
